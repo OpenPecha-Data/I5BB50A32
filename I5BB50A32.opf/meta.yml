@@ -1,0 +1,38 @@
+id: I5BB50A32
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:09:04.831263'
+last_modified: '2022-06-19T04:09:04.831293'
+parser: null
+source_metadata:
+  title: Mang thoss (1523–1596) chronology of the doctrine
+  author: mang thos klu sgrub rgya mtsho/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2012-09); revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Dan Martin (Jerusalem) (dm), Gomang Text Input (Kathmandu), Kunga Dorje
+    (kun)
+  - Editorial process:Mathias Fermer (mf), blo gsal don grub/ (ld)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:blo gsal don grub/ (ld), Mathias Fermer (mf)
+  - Revisions/Corrections:Chab spel tshe brtan phun tshogs (ed.) (chp), Dan Martin
+    (dm), Kunga Dorje (kun), blo gsal don grub/ (ld)
+  text_witnesses: https://sakyaresearch.org/sources/71
+  bases:
+    f3b3:
+      title: Mang thoss (1523–1596) chronology of the doctrine
+      order: 1
+      base_file: f3b3.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
